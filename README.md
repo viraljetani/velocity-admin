@@ -16,10 +16,16 @@ This project is a modern, open-source UI template built with React and Tailwind 
 ## Technology Stack
 
 - **Framework:** React
+- **Language:** TypeScript
 - **Build Tool:** Vite
 - **Styling:** Tailwind CSS
-- **Icons:** Heroicons
-- **Fonts:** Google fonts
+- **Icons:** Heroicons, Lucide React
+- **Routing:** React Router
+- **Animations:** tailwindcss-animate
+- **Linting:** ESLint
+- **PostCSS & Autoprefixer:** Used with Tailwind CSS
+- **Type Definitions:** @types/react, @types/node, etc.
+
 
 ## Getting Started
 
